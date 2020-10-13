@@ -150,20 +150,12 @@ websites:
       - totp
     doc: https://help.mintos.com/hc/en-us/sections/360000373858
 
-  - name: MotifInvesting
-    url: https://www.motifinvesting.com/
-    img: motif.png
-    tfa:
-      - sms
-      - phone
-    doc: https://www.motifinvesting.com/security
-
   - name: Nutmeg
     url: https://www.nutmeg.com/
     img: nutmeg.png
     tfa:
       - totp
-    doc: https://support.nutmeg.com/hc/en-us/articles/115000495111
+    doc: https://support.nutmeg.com/hc/en-us?article=115000495111-How-to-set-up-and-manage-2-step-verification
 
   - name: onvista bank
     url: https://www.onvista-bank.de/

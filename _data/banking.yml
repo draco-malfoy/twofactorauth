@@ -1,4 +1,14 @@
 websites:
+  - name: 1822direkt
+    url: https://www.1822direkt.de/
+    img: 1822direkt.png
+    tfa:
+      - sms
+      - proprietary
+    doc: https://www.1822direkt.de/service/sicherheitsportal/allgemeines-psd2/starke-kundenauthentifizierung/
+    regions:
+      - de
+
   - name: Actors Federal Credit Union
     url: https://www.actorsfcu.com/
     twitter: ActorsFCU
@@ -223,6 +233,14 @@ websites:
     img: bbva.png
     facebook: bbvacompass
     twitter: BBVACompass
+
+  - name: Bendigo Bank
+    url: https://www.bendigobank.com.au
+    img: bendigobank.png
+    facebook: BendigoBank
+    twitter: bendigobank
+    regions:
+      - au
 
   - name: Bethpage Federal Credit Union
     url: https://www.bethpagefcu.com/
@@ -468,6 +486,16 @@ websites:
       - sms
       - proprietary
     doc: https://www.desjardins.com/securite/validation-2-etapes/
+
+  - name: Deutsche Apotheker- und &Auml;rztebank
+    url: https://www.apobank.de/
+    img: apobank.png
+    tfa:
+      - sms
+      - proprietary
+    doc: https://www.apobank.de/footer/tan-app.html
+    regions:
+      - de
 
   - name: Deutsche Bank
     url: https://www.deutsche-bank.de/
@@ -805,7 +833,7 @@ websites:
     img: lendingclub.png
     tfa:
       - email
-    doc: https://help.lendingclub.com/hc/en-us/articles/360023227211
+    doc: https://help.lendingclub.com/hc/en-us/articles/215562677#h_95bff530-80b8-43ec-9ae1-ffae87e563f5
 
   - name: LGE Community Credit Union
     url: https://www.lgeccu.org/
@@ -1149,6 +1177,16 @@ websites:
     email_address: santander.email@santander.com.br
     lang: pt
 
+  - name: Santander DE
+    url: https://www.santander.de/
+    img: santander.png
+    tfa:
+      - sms
+      - proprietary
+    doc: https://www.santander.de/privatkunden/service-kontakt/information/psd2/
+    regions:
+      - de
+
   - name: Santander PL
     url: https://santander.pl
     img: santander.png
@@ -1169,7 +1207,6 @@ websites:
     img: santander.png
     twitter: santanderukhelp
     facebook: santanderuk
-    status: https://www.santander.co.uk/personal/support/ways-to-bank/changes-to-how-you-log-on-to-online-banking
 
   - name: SchoolsFirst FCU
     url: https://www.schoolsfirstfcu.org/
